@@ -1,7 +1,7 @@
 import tkinter as tk
 from Utils.runner import run_script
 scripts = [
-    {"name": "Script 1", "file": "scripts/script1.py"},
+    {"name": "Tabela ARP", "file": "Scripts/arp.py"},
     {"name": "Script 2", "file": "scripts/script2.py"},
     {"name": "Script 3", "file": "scripts/script3.py"},
     {"name": "Script 4", "file": "scripts/script4.py"},
